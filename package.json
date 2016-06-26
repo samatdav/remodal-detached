@@ -1,0 +1,23 @@
+{
+  "name": "remodal-detached",
+  "version": "1.0.7-v1",
+  "description": "Module to use Remodal library for popup, detached from the global namespace (window).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samatdav/remodal-detached.git"
+  },
+  "author": "Samat Davletshin <samatdav@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samatdav/remodal-detached/issues"
+  },
+  "homepage": "https://github.com/samatdav/remodal-detached#readme",
+  "dependencies": {
+    "jquery-detached-2.1.4": "^2.1.4-v2",
+    "window-handle": "^0.0.6"
+  }
+}
