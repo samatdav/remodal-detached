@@ -1,6 +1,6 @@
 {
   "name": "remodal-detached",
-  "version": "1.0.7-v1",
+  "version": "1.0.7-v3",
   "description": "Module to use Remodal library for popup, detached from the global namespace (window).",
   "main": "index.js",
   "scripts": {

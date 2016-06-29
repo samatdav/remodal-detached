@@ -1,6 +1,6 @@
 var $remodal;
 
-exports.getBootstrap = function() {
+exports.getRemodal = function() {
     if (!$remodal) {
         var jquery = require('jquery-detached-2.1.4');
         var decorator = require('./decorator');
